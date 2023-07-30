@@ -1,4 +1,4 @@
-# :pizza: Fast-React-Pizza
+## :pizza: Fast-React-Pizza
 
 <p align='center'>
   
@@ -11,12 +11,11 @@
 
 ### :star2: Features
 
-- Fetches the menu items from an **API** and displays them in a user-friendly interface
-- Allows customers to customize their orders and add them to a shopping cart
-- Sends the orders to the **API** and updates the customers on the status of their orders
-- A **fully responsive** design that adapts to different screen sizes and devices
 - Uses **ReactJS** as the frontend framework and **Tailwind CSS** for styling
 - Uses **React Router** for routing and navigation
+- A **fully responsive** design that adapts to different screen sizes and devices
+- Fetches the menu items from an **API** and displays them in a user-friendly interface
+- Sends the orders to the **API** and updates the customers on the status of their orders
 
 ### :computer: Installation
 
@@ -27,9 +26,9 @@ Navigate to the project folder and run `npm install` to install the dependencies
 Run `npm run dev` to start the development server
 Open http://localhost:5173 in your browser to view the application
 
-### :cinema: Live Demo
-
-You can view a live demo of this project **[Here](https://fast-react-pizza-wrry.netlify.app)**
+### :clapper: Live Demo
+You can view a live demo of this project **[Here](https://fast-react-pizza-wrry.netlify.app)**<br/>
+<sub>➡️ To load faster please connect your VPN and then see the live demo.</sub>
 
 ### :copyright: Postscript
 
